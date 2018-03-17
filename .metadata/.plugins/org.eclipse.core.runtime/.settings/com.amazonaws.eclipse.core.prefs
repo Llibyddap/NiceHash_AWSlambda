@@ -1,0 +1,12 @@
+1011c18a-8246-4496-97ac-35820c19b5cc\:credentialProfileName=default
+741ac075-3af9-4514-94f5-687972aab620\:credentialProfileName=default
+cognitoIdentityId=us-east-1\:42d83e29-60bc-4e33-a623-af99502c5287
+cognitoIdentityPoolId=us-east-1\:d4fdc07f-94fd-4cc6-94fb-f903657f05c1
+credentialProfileAccountIds=1011c18a-8246-4496-97ac-35820c19b5cc
+currentAccount=1011c18a-8246-4496-97ac-35820c19b5cc
+currentDefaultAccount=1011c18a-8246-4496-97ac-35820c19b5cc
+currentDefaultAccount-us-east-1=1011c18a-8246-4496-97ac-35820c19b5cc
+defaultRegion=us-east-1
+ec2PreferencesImported=true
+eclipse.preferences.version=1
+regionsWithDefaultAccounts=us-east-1
